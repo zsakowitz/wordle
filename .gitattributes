@@ -1,0 +1,2 @@
+wordle.json filter=lfs diff=lfs merge=lfs -text
+wordle.txt filter=lfs diff=lfs merge=lfs -text
